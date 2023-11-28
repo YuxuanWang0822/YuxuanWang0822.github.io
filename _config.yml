@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Wanf / Personal Page"
+title                    : "Yuxuan Wang / Personal Page"
 title_separator          : "-"
 name                     : &name "Yuxuan Wang"
 description              : &description "personal description"
